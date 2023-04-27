@@ -15,7 +15,6 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          안녕안녕 나는 인호야~~~ 헬륨가스 먹었더니 이렇게 됐지~ ''
         </a>
       </header>
     </div>
